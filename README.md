@@ -36,8 +36,6 @@ Expressões regulares usadas na validação de formulários
 
 tsc -w no diretório do back end
 
-`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
-
 ### Number Regex
 
 `/^[0-9]*$/`
