@@ -19,6 +19,11 @@
 
 `json-server db.json`
 
+
+### Iniciando BackEnd Através do NodeMon
+
+nodemon --watch backend backend/dist/server.js
+
 ## Goodies
 
 Expressões regulares usadas na validação de formulários
