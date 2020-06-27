@@ -22,7 +22,7 @@
 
 ### Iniciando BackEnd Através do NodeMon
 
-nodemon --watch backend backend/dist/server.js
+`nodemon --watch backend backend/dist/server.js`
 
 ## Goodies
 
